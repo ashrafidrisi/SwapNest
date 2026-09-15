@@ -14,7 +14,7 @@ import MyProducts from "./Myproduct/MyProduct";
 
 import EditProduct from "./Editproduct/EditProduct";
 
-import Navbar from "./Navbar/Navbar";
+import Navbar from "./Profile/Navbar/Navbar";     // maine isme Profile add kiya hai 
 
 import Profile from "./Profile/Profile";
 
