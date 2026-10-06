@@ -7,13 +7,3 @@ const api = axios.create({ baseURL });
 
 export default api;
 
-
-// change maine kiya hai uper wala tha code me 
-
-// import axios from "axios";
-
-// const api = axios.create({
-//   baseURL: "http://localhost:5000/api",
-// });
-
-// export default api;
